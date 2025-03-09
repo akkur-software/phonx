@@ -1,0 +1,12 @@
+.vs/
+temp/
+bin/
+binaries/
+obj/
+tests/obj/
+tests/bin/
+sources/obj/
+sources/bin/
+TestResults/
+interm/
+3rdparty/
