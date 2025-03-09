@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Phonx (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Phonx (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
